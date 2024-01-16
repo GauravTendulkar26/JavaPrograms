@@ -1,4 +1,4 @@
 #  Learning Core Java
-This is java program 
+ java programs 
 <br>
 this is practice purpose.
