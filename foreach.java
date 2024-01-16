@@ -3,7 +3,7 @@ class foreach {
     {
         int a[] = {10,20,30,40,50};
         for(int b : a ){
-            System.out.println(b +" ");
+            System.out.println(b +"_");
         }
-    }
+    } 
 }
